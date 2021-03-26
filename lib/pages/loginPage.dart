@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:grocery_app/pages/HomeScreen.dart';
-import 'package:grocery_app/pages/signupPage.dart';
+import 'HomeScreen.dart';
+import 'signupPage.dart';
 import 'package:provider/provider.dart';
 
-import 'package:grocery_app/authService.dart';
+import '../authService.dart';
 
 class LoginPage extends StatelessWidget {
   TextEditingController email;

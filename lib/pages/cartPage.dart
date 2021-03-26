@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:grocery_app/pages/checkout.dart';
+import 'checkout.dart';
 
 class CartPage extends StatelessWidget {
   @override

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:grocery_app/pages/loginPage.dart';
 import 'package:provider/provider.dart';
 
-import 'package:grocery_app/authService.dart';
+import '../authService.dart';
+import 'loginPage.dart';
 
 class Signup extends StatefulWidget {
   @override

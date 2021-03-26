@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:grocery_app/authService.dart';
-import 'package:grocery_app/item.dart';
-import 'package:grocery_app/pages/category.dart';
+import '../authService.dart';
+import '../item.dart';
+import 'category.dart';
 
 class HomePage extends StatelessWidget {
   @override

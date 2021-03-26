@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:grocery_app/pages/cartPage.dart';
-import 'package:grocery_app/pages/homePage.dart';
-import 'package:grocery_app/pages/profilePage.dart';
+import 'cartPage.dart';
+import 'homePage.dart';
+import 'profilePage.dart';
 
 class HomeScreen extends StatefulWidget {
   @override

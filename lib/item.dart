@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:grocery_app/pages/product.dart';
+import 'pages/product.dart';
 
 Widget itemProduct(
     BuildContext context, String image, String name, String price) {

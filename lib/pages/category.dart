@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:grocery_app/item.dart';
-import 'package:grocery_app/pages/product.dart';
+import '../item.dart';
+import 'product.dart';
 
 class CategoryPage extends StatelessWidget {
   @override
